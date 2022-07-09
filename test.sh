@@ -1,0 +1,1 @@
+curl --request POST --data "$1" "http://localhost:8080/flights"
